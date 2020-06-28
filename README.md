@@ -4,6 +4,11 @@
 下载地址：https://github.com/TottiLv/BLMediaBrowser.git
 
 ### BLMediaBrowserManager
+## 下载demo，run，然后可以看效果
+
+```
+pod 'BLMediaBrowser', :path => '../'
+```
 
 #### Creating a Local Task
 
