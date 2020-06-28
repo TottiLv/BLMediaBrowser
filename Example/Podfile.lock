@@ -1,0 +1,25 @@
+PODS:
+  - BLMediaBrowser (0.1.0):
+    - SDWebImage (~> 5.0)
+  - SDWebImage (5.8.0):
+    - SDWebImage/Core (= 5.8.0)
+  - SDWebImage/Core (5.8.0)
+
+DEPENDENCIES:
+  - BLMediaBrowser (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - SDWebImage
+
+EXTERNAL SOURCES:
+  BLMediaBrowser:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BLMediaBrowser: 7ce452832046a7badd17df1d40580f01bce79294
+  SDWebImage: 84000f962cbfa70c07f19d2234cbfcf5d779b5dc
+
+PODFILE CHECKSUM: fc4b8683549f1f72b5021d2aae68b1f8653da285
+
+COCOAPODS: 1.9.3
